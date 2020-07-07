@@ -1,11 +1,11 @@
 # Site settings
-author: TSephanya Brun
-title: 
+author: Anya Brun
+title: Anya Brun
 header-img: img/home-bg.png
 email: tsbrun@icloud.com
-copyright_name: TSephanya Brun
+copyright_name: Anya Brun
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Adventures in Coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  tsbrun
