@@ -1,18 +1,16 @@
 ---
 layout: post
 title:      "Finding My Why"
-date:       2020-07-20 18:00:45 +0000
+date:       2020-07-20 14:00:46 -0400
 permalink:  finding_my_why
 ---
 
 
-If I were a superhero, my power would be procrastination. I’d put off fighting the villain for so long, they’d eventually walk off in exasperation! As a serial procrastinator, I’m also a serial watcher-of-productivity-videos. 
+I’m a self-proclaimed productivity-video-addict. 
 
 Said videos often talk about the need to “know your why.” Understanding the reason why you’re doing something is related to intrinsic motivation. Instead of being motivated by extrinsic factors—the proverbial “carrot on a stick”—[studies have shown](http://https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5364176/) that performance is improved when people are motivated by their own personal desire to accomplish something. 
 
 Investing time, money, and mental energy into a coding bootcamp is no small decision. So, my enrollment in Flatiron School’s software engineering program logically begs the question—What’s *my* why?
-
-Like any good superhero origin story, we need to go back to the beginning. 
 
 It all started circa 2016, when I got my first taste of web development with Codecademy and freeCodeCamp.org. I remember the CSS lessons on freeCodeCamp, in particular. It was so exciting to learn terms like “the box model” and “class selectors”, to play around with the mini websites I coded with the TextEdit application on my laptop. Around the same time, I also discovered a wealth of free programming resources on the internet. I downloaded a pdf of the book “Automating the Boring Stuff with Python” and finished a couple of online data science lessons. And I created my very own Stack Overflow account. (To this day, I still haven’t posted a question of my own 🐔😅). 
 
